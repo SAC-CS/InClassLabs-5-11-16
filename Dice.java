@@ -52,3 +52,4 @@ public class Dice {
 		while (decision ==1);	
 	}
 }
+// Good job!
